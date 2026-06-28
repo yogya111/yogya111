@@ -59,5 +59,15 @@ Currently building professional end-to-end Data Analytics projects.
 * VS Code
 * Jupyter Notebook
 
+* ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogya111&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogya111&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+
   
 
