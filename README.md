@@ -68,6 +68,14 @@ Currently building professional end-to-end Data Analytics projects.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogya111&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yogya111&theme=tokyonight" />
+</p>
+
 
   
 
