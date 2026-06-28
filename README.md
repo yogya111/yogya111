@@ -30,3 +30,34 @@ Currently building professional end-to-end Data Analytics projects.
 * 📍 Michigan, USA
 * 📫 Email: **[yogyarachana.bandaru@gmail.com](mailto:yogyarachana.bandaru@gmail.com)**
 
+* ---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+* SQL
+* Python
+* Java
+* R
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+
+### 📊 Data Visualization
+
+* Power BI
+* Tableau
+* Microsoft Excel
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+  
+
