@@ -22,7 +22,7 @@ Currently building professional end-to-end Data Analytics projects.
 ## 👩‍💻 About Me
 
 * 🎓 Master's in Computer Science
-* 📊 Aspiring Data Analyst
+* 📊 Actively seeking Data Analyst opportunities in the United States
 * 💻 Skilled in SQL, Python, Power BI, Tableau, Excel, Java, and PostgreSQL
 * 📈 Passionate about Business Intelligence and Data Visualization
 * 🚀 Currently building professional end-to-end Data Analytics projects
